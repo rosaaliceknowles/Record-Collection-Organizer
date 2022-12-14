@@ -9,7 +9,7 @@ This program supports the genres: Country, Electronic, Folk, Hip-Hop, Jazz, Meta
 The defines have the syntax:
 
 	{Artist Name},{Genre}:
-		{Album Name},{Year Released}
+	   {Album Name},{Year Released}
 
 This program is a little bit old, so my code isn't the greatest. 
 
