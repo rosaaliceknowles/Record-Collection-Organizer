@@ -1,0 +1,162 @@
+Animals;Rock:
+  The Best of The Animals;1966
+Anti-Flag;Punk:
+  20/20 Division;2020
+Arca;Electronic:
+  Kick I;2020
+Aphex Twin;Electronic:
+  Selected Ambient Works 85-92;1992
+Blood Sweat & Tears;Rock:
+  3;1970
+  Mirror Image;1974
+  Blood Sweat & Tears;1968
+Beatles;Rock:
+  1st Live Recordings, Hamburg, Germany, 1962;1977
+  The White Album;1968
+  Rarities;1980
+  20 Greatest Hits;1982
+  Let It Be;1970
+  Abbey Road;1969
+  Sgt. Pepper's Lonely Hearts Club Band;1967
+  Revolver;1966
+  Rubber Soul;1965
+  Beatles VI;1965
+  Beatles '65;1964
+  Something New;1964
+  Introducing... The Beatles;1964
+Bee Gees;Pop:
+  Best of Bee Gees Vol 2;1973
+Björk;Pop:
+  Homogenic;1997
+  Medulla;2004
+  Fossora;2022
+  Post;1995
+Black Keys;Rock:
+  Delta Kream;2021
+Blondie;Punk:
+  Parallel Lines;1978
+Chemical Brothers;Electronic:
+  Salmon Dance;2007
+Crystal Castles;Electronic:
+  Crystal Castles;2008
+Daft Punk;Electronic:
+  Homework;1997
+Death Grips;Hip-Hop:
+  The Money Store;2012
+  No Love Deep Web;2012
+  Year of The Snitch;2018
+  The Powers That B;2015
+  Government Plates;2013
+Death Insurance;Electronic:
+  I'm In Your Walls;2022
+DJ Overdog;Electronic:
+  I'm the DJ;2001
+Electric Light Orchestra;Rock:
+  Olé Elo;1976
+Shinehead;Hip-Hop:
+  Gimme No Crack;1988
+Florence + The Machine;Pop:
+  Lungs;2009
+  High as Hope;2018
+Dan Fogelberg;Rock:
+  Captured Angel;1975
+Alice Glass;Electronic:
+  Alice Glass (Remixes);2018
+Tudikas Wayne Hunnicutt;Electronic:
+  Mutant Boobies;2009
+Gorillaz;Hip-Hop:
+  Gorillaz;2001
+Elton John;Pop:
+  Don't Shoot me I'm only the Piano Player;1973
+  Jump Up!;1982
+  Greatest Hits;1974
+Tom Jones;Pop:
+  Darlin';1981
+  Say You'll Stay Until Tomorrow;1977
+Kraftwerk;Electronic:
+  The Man Machine;1978
+  Techno Pop;1986
+John Lennon;Rock:
+  Imagine;1971
+Machine Girl;Electronic:
+  Gemini;2015
+  Because I'm Young Arrogant And Hate Everything You Stand For;2017
+Mantovani and His Orchestra;Orchestral:
+  Folk Songs Around The World;1964
+  The Mantovani Touch;1968
+MGMT;Pop:
+  Oracular Spectacular;2007
+Mindless Self Indulgence;Electronic:
+  Frankenstein Girls Will Seem Strangely Sexy;1999
+  Pink;2015
+Neutral Milk Hotel;Rock:
+  In The Aeroplane Over the Sea;1998
+The Norman Luboff Choir;Orchestral:
+  Moments To Remember;1960
+Queen;Rock:
+  A Night At the Opera;1975
+  Greatest Hits;1981
+Various;Orchestral:
+  Saluting the Sounds of the 70s;1973
+Rainbow Kitten Surprise;Rock:
+  RKS! Live From Athens Georgia;2021
+Rolling Stones;Rock:
+  Through The Past, Darkly (Big Hits Vol. 2);1969
+Solé;Hip-Hop:
+  4,5,6 (Remixes);1999
+Sonic Dragolgo;Electronic:
+  のんびりポテトさん;1997
+Various;Hip-Hop:
+  Songs For You, Vol. 2;2021
+Spoon;Rock:
+  Gimme Fiction;2005
+  Everything Hits At Once: The Best of Spoon;2019
+STRFKR;Pop:
+  Starf---er;2008
+  Jupiter;2009
+  Reptilians;2011
+  Being No One, Going Nowhere;2016
+  Live From Brooklyn Steel;2019
+  Ambient 1;2020
+Two Door Cinema Club;Pop:
+  False Alarm;2019
+Tyler, The Creator;Hip-Hop:
+  Igor;2019
+Vampire Weekend;Rock:
+  Modern Vampires of The City;2013
+White Stripes;Punk:
+  Greatest Hits;2020
+The Who;Rock:
+  Live at Leeds;1970
+Xiu Xiu;Electronic:
+  Oh No;2021
+  Dear God, I Hate Myself;2010
+Bad Tracking;Electronic:
+  Widower EP;2019
+Venetian Snares;Electronic:
+  Traditional Synthesizer Music;2016
+Merzbow;Electronic:
+  Venereology;1994
+Kero Kero Bonito;Pop:
+  Civilisation;2021
+Brutha;R&B:
+  I Can't Hear The Music;2008
+G Love E;Hip-Hop:
+  Give it To Me;1990
+Genelab;Electronic:
+  Anorak Lou;1999
+Cyndi Lauper;Pop:
+  She's So Unusual;1983
+Fatboy Slim;Electronic:
+  Beat Burger EP;1997
+Suicide;Electronic:
+  Cheree;1978
+Mumford & Sons;Folk:
+  Live From Electric Lady;2019
+The Unsubs;Punk:
+  The Unsubs;2020
+You Love Her Coz She's Dead;Electronic:
+  Kitsuné: Inner City Angst EP;2008
+Laura Jane Grace;Folk:
+  At War With The Silverfish;2021
+END.

@@ -1,0 +1,23 @@
+Kero Kero Bonito;Pop:
+  Flamingo;2014
+  Swimming/The Open Road;2019
+Elton John;Pop:
+  Empty Garden (Hey Hey Johnny);1982
+  Nikita/Restless;1986
+Jack White;Rock:
+  Connected By Love;2018
+Temples, Kadhja Bonet;Pop:
+  Fortune/I Wanna Be A Free Girl;2017
+Various;Punk:
+  Why Are We Here?;1983
+Vern Gosdin;Country:
+  Fifteen Hundred Times A Day;1979
+The Good Life and The Pauses;Rock:
+  Divine Hammer;2020
+Madonna;Pop:
+  Like a Virgin;1984
+Various;Electronic:
+  Merok vs. Rough Trade;2007
+Rainbow Kitten Surprise;Rock:
+  Mary (B-Sides);2019
+END.

@@ -1,0 +1,3 @@
+albums_file_path = "albums.txt"
+singles_file_path = "singles.txt"
+output_file_path = "sorted_albums.txt"
