@@ -6,6 +6,12 @@ This program reads a file that contains information about albums, and creates ob
 
 This program supports the genres: Country, Electronic, Folk, Hip-Hop, Jazz, Metal, Orchestral, OST, Pop, Punk, R&B, Rock, as well as having a seperate file for singles.
 
+The defines have the syntax:
+
+{Artist Name},{Genre}:
+
+  {Album Name},{Year Released}
+
 This program is a little bit old, so my code isn't the greatest. 
 
 If you feel like rewriting this to use a .csv file or adding in more genres, etc. feel free to do so :-)
